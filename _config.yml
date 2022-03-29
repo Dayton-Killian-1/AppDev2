@@ -1,7 +1,7 @@
 # Setup
 title:               'Today I Learned'
 tagline:             'Notes to self about software development'
-description:         ''
+description:         'https://Dayton-Killian-1.github.io'
 url:                 'https://appdev-projects.github.io/'
 baseurl:             'til/'
 paginate:            5
